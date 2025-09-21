@@ -1,4 +1,4 @@
-# 🎨 D-15 Digital Color Vision Test
+# D-15 Digital Color Vision Test
 
 This is a web-based implementation of the **Farnsworth D-15 color vision test**, designed to help identify the **type and severity of color vision deficiency (CVD)**.
 
@@ -12,7 +12,7 @@ This tool was built as the diagnostic component of a larger project aimed at enh
 
 ---
 
-## 🚀 Quick Start
+## Quick Start
 
 1. Clone this repo
       ```bash
@@ -27,7 +27,7 @@ This tool was built as the diagnostic component of a larger project aimed at enh
 5. Now you can start the test!
 
 
-## 🖼️ Features
+## Features
 - Interactive drag-and-drop test interface
 - Fixed pilot cap and randomized draggable caps
 - Real-time computation of:
@@ -36,7 +36,7 @@ This tool was built as the diagnostic component of a larger project aimed at enh
     - Confusion Index (CI)
  
 
-## 🔗 Related Project
+## Related Project
 
 This test is part of a larger project exploring personalized color correction for colorblind users, where test results directly inform how image colors are adjusted for better visibility.
 
