@@ -1,4 +1,4 @@
-# D-15 Digital Color Vision Test
+# Farnsworth-D-15-Digital-Color-Vision-Test
 
 This is a web-based implementation of the **Farnsworth D-15 color vision test**, designed to help identify the **type and severity of color vision deficiency (CVD)**.
 
